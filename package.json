@@ -1,0 +1,19 @@
+{
+  "name": "data_viz",
+  "version": "0.0.0",
+  "description": "Testing out different data visualization libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andyperlitch/data_viz_demos.git"
+  },
+  "author": "andy perlitch",
+  "license": "BSD",
+  "gitHead": "fce7e40e5b695ff1480111062a5c184e6bb687d8",
+  "bugs": {
+    "url": "https://github.com/andyperlitch/data_viz_demos/issues"
+  }
+}
